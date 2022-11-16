@@ -1,0 +1,7 @@
+# Source: https://github.com/Platane/snk
+- uses: Platane/snk/svg-only@v2
+  with:
+    github_user_name: ${{ github.repository_owner }}
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
