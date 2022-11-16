@@ -13,9 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> 
-  <img src="https://media0.giphy.com/media/5bGYUuT3VEVLa/giphy.gif" /><br/>
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/leolion3/count.svg" />
+<p align="center">
+  Visitor count
+  <br>
+  <img src="https://profile-counter.glitch.me/leolion3/count.svg"/>
+  <br>
+  <img src="https://media0.giphy.com/media/5bGYUuT3VEVLa/giphy.gif"/>
+  <br>
+  <img src="generated/github-contribution-grid-snake.svg#gh-light-mode-only" alt="" />
+  <img src="generated/github-contribution-grid-snake.svg#gh-dark-mode-only" alt=""/>
 </p>
-
