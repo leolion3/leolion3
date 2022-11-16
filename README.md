@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **leolion3/leolion3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center"> 
+  <img src="https://media0.giphy.com/media/5bGYUuT3VEVLa/giphy.gif" /><br/>
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/leolion3/count.svg" />
+</p>
+
