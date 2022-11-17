@@ -13,8 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# About Me
+
+Welcome to my profile!👋
+
+My name is **Leonard Haddad**! I'm a 23 years old software developer from Israel currently residing in Germany.
+
+I Like working on cool tools 🔭 which you can find in my pinned repositories!
+
+⚡Real-life Tony Stark⚡
+
 <p align="center">
-  Visitor count
+  <b>Visitor count</b>
   <br>
   <img src="https://profile-counter.glitch.me/leolion3/count.svg"/>
   <br>
@@ -23,3 +33,5 @@ Here are some ideas to get you started:
   <img src="generated/github-contribution-grid-snake.svg#gh-light-mode-only" alt="" />
   <img src="generated/github-contribution-grid-snake.svg#gh-dark-mode-only" alt=""/>
 </p>
+
+**CV available at**: https://github.com/leolion3/Portfolio/tree/master/CV or https://leolion3.github.io/Portfolio/ under "Show Resume".
