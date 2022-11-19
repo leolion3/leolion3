@@ -33,5 +33,3 @@ I Like working on cool tools 🔭 which you can find in my pinned repositories!
   <img src="generated/github-contribution-grid-snake.svg#gh-light-mode-only" alt="" />
   <img src="generated/github-contribution-grid-snake.svg#gh-dark-mode-only" alt=""/>
 </p>
-
-**CV available at**: https://github.com/leolion3/Portfolio/tree/master/CV or https://leolion3.github.io/Portfolio/ under "Show Resume".
