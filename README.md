@@ -1,5 +1,3 @@
-<h1>About Me</h1>
-
 Welcome to my profile!👋
 
 My name is **Leonard Haddad**! I'm a 23 years old software developer from Israel currently residing in Germany.
