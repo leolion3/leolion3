@@ -17,9 +17,6 @@ My name is **Leonard Haddad**! I'm a 23 years old software developer from Israel
   <img src="https://profile-counter.glitch.me/leolion3/count.svg"/>
   <br>
   <img src="https://media0.giphy.com/media/5bGYUuT3VEVLa/giphy.gif"/>
-  <br>
-  <img src="https://raw.githubusercontent.com/leolion3/leolion3/snake/github-contribution-grid-snake.svg#gh-light-mode-only" alt="" />
-  <img src="https://raw.githubusercontent.com/leolion3/leolion3/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt=""/>
 </p>
 
 <div align="center">
