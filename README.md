@@ -76,6 +76,7 @@ My name is **Leonard Haddad**! I'm a 23 years old software developer from Israel
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolion3&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages">
 </a>
 <a href="https://github.com/leolion3/University_Stuff" align="right"><img align="right" width="65%" src="https://github-readme-stats.vercel.app/api/pin/?username=leolion3&repo=University_Stuff&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"></a>
+
 <a href="#github-stats">Back to top</a>
 </div>
 </details>
