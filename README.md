@@ -53,6 +53,14 @@ My name is **Leonard Haddad**! I'm a 23 years old software developer from Israel
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 <a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
+<a href="https://www.haskell.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/45939246/203198835-76f34839-354b-485b-b136-969d8000d5ed.svg" width="36" height="36" alt="Haskell" /></a><br>
+  <a href="https://ui.com/consoles" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/45939246/203199313-0094e27a-61f8-434f-8764-7ccfbcad5fa4.svg" width="36" height="36" alt="Unifi" /></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/45939246/203199457-a686c36a-c8a7-4b03-9d8d-36af5042625f.svg" width="36" height="36" alt="Spring Boot" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/45939246/203199581-72270c32-a9d3-4ed7-8817-7aa849065581.svg" width="36" height="36" alt="Spring Boot" /></a>
+  <a href="https://www.docker.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/45939246/203199993-ed1398bd-5008-48dd-8393-bf7f2b608e64.svg" width="36" height="36" alt="Docker" /></a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/45939246/203200421-4f24d9a6-d0e6-47d5-942e-c96faf5d25de.svg" width="36" height="36" alt="Android Studio" /></a>
+  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/45939246/203200094-7440df2f-c2d5-48b2-9e4d-21522109b755.svg" width="36" height="36" alt="Metasploit" /></a>
+  <a href="https://www.office.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/45939246/203199855-bc55d35c-6910-4e9a-be12-949be6b4ea99.svg" width="36" height="36" alt="Microsoft Office" /></a>
 </p>
 
 <details id="github-stats">
