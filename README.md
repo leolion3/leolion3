@@ -55,13 +55,19 @@ My name is **Leonard Haddad**! I'm a 23 years old software developer from Israel
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
 </p>
 
-<a href="http://www.github.com/leolion3"><img src="https://github-readme-stats.vercel.app/api?username=leolion3&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="leolion3's GitHub stats" /></a><a href="http://www.github.com/leolion3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=leolion3&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<details id="github-stats">
+  <summary>
+  	<b style="color: purple;">Github stats</b>
+  </summary>
+  <div>
+<a href="http://www.github.com/leolion3"><img src="https://github-readme-stats.vercel.app/api?username=leolion3&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="leolion3's GitHub stats" /></a><a href="http://www.github.com/leolion3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=leolion3&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"></a>
 
-<a href="http://www.github.com/leolion3"><img src="https://activity-graph.herokuapp.com/graph?username=leolion3&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/leolion3"><img src="https://activity-graph.herokuapp.com/graph?username=leolion3&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph"></a>
 
 <a href="https://github.com/leolion3" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolion3&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolion3&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages">
 </a>
-<a href="https://github.com/leolion3/University_Stuff" align="right">
-  <img align="right" width="65%" src="https://github-readme-stats.vercel.app/api/pin/?username=leolion3&repo=University_Stuff&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-</a>
+<a href="https://github.com/leolion3/University_Stuff" align="right"><img align="right" width="65%" src="https://github-readme-stats.vercel.app/api/pin/?username=leolion3&repo=University_Stuff&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"></a>
+<a href="#github-stats">Back to top</a>
+</div>
+</details>
