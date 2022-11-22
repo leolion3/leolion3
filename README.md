@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.buymeacoffee.com/leolion"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100" /></a>
+  <a href="https://www.buymeacoffee.com/leolion" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100" /></a>
   <a href="https://www.github.com/leolion3" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/leolion3?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/xLeoLion3" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/xLeoLion3?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
@@ -77,6 +77,5 @@ My name is **Leonard Haddad**! I'm a 23 years old software developer from Israel
 </a>
 <a href="https://github.com/leolion3/University_Stuff" align="right"><img align="right" width="65%" src="https://github-readme-stats.vercel.app/api/pin/?username=leolion3&repo=University_Stuff&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"></a>
 
-<a href="#github-stats">Back to top</a>
 </div>
 </details>
