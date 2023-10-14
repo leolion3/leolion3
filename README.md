@@ -71,7 +71,7 @@ My name is **Leonard Haddad**! I'm a 23 years old software developer from Israel
 <a href="http://www.github.com/leolion3"><img src="https://github-readme-stats.vercel.app/api?username=leolion3&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="leolion3's GitHub stats" style="width:45%"/></a>
 <a href="http://www.github.com/leolion3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=leolion3&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" style="width:45%"></a>
     
-<a href="http://www.github.com/leolion3"><img src="https://github-readme-activity-graph.vercel.app/graph?username=leolion3&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" style="width:100%"></a>
+<a href="http://www.github.com/leolion3"><img src="https://raw.githubusercontent.com/leolion3/leolion3/snake/github-snake.svg" alt="GitHub Commits Graph" style="width:100%"></a>
 <a href="https://github.com/leolion3" style="max-width: 30%; width:35%">
   <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolion3&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" align="left"></a>
 <a href="https://github.com/leolion3/University_Stuff" style="max-width: 65%; width:60%">
