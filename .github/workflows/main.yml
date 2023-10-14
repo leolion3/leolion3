@@ -33,4 +33,4 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
           target_branch: snake
-          build_dir: dist/generated
+          build_dir: dist/
