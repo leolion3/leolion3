@@ -7,7 +7,7 @@ src="https://img.shields.io/twitch/status/xLeoLion3?logo=twitchsx&style=for-the-
 
 Welcome to my profile!👋
 
-My name is **Leonard Haddad**! I'm a 25 years old software developer from Israel currently residing in Germany.
+My name is **Leonard Haddad**! I'm a 25 year old software developer from Israel currently residing in Germany.
 
 <p align="center">
   <i>described by colleagues, clients, friends and family as</i><br>
