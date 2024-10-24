@@ -98,10 +98,11 @@ My name is **Leonard Haddad**! I'm a 25 year old software developer from Israel 
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=leolion3&repo=Simple-File-Transferer-Android&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" align="right">
       </a>
     </div>
+  </div>
 
-<table>
-    <tbody>
-        <tr></tr>
-    </tbody>
-</table>
+  <table>
+      <tbody>
+          <tr></tr>
+      </tbody>
+  </table>
 </details>
